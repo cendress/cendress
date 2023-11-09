@@ -1,7 +1,7 @@
-# 👋 Hello, I'm Chris!
+# 👋 Hi, I'm Chris!
 
 ## 🚀 About Me
-I'm an aspiring iOS developer currently working on #100DaysOfSwift by Paul Hudson. My passion for Swift and building useful apps has led me to publish my own app, **CentSage**, on the App Store. 📱
+I'm an aspiring iOS developer currently working on 100DaysOfSwift by Paul Hudson. My passion for Swift and building serviceable apps has led me to publish my own app, **CentSage**, on the App Store. 📱
 
 👨‍💻 I'm on the lookout for my first professional role as an iOS Developer, while I continue to sharpen my skills through a series of smaller projects utilizing UIKit and SwiftUI.
 
@@ -18,7 +18,7 @@ I'm an aspiring iOS developer currently working on #100DaysOfSwift by Paul Hudso
 - Published **Globe: World History**, a studying tool for students learning world history.
 
 ## 📚 I'm Currently Learning
-- Advancing my knowledge of Swift with the #100DaysOfSwift curriculum.
+- Advancing my knowledge of Swift with the 100DaysOfSwift curriculum.
 - Exploring advanced UI/UX design principles for iOS applications.
 
 ## 💼 I'm Looking For
