@@ -19,7 +19,7 @@ I'm an aspiring iOS developer currently working on 100DaysOfSwift by Paul Hudson
 
 ## 📚 I'm Currently Learning
 - Advancing my knowledge of Swift with the 100DaysOfSwift curriculum.
-- Exploring advanced UI/UX design principles for iOS applications.
+- Exploring programmatic UI with UIKit.
 
 ## 💼 I'm Looking For
 - Entry-level iOS Developer positions.
