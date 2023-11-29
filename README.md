@@ -15,7 +15,7 @@ I'm an aspiring iOS developer currently working on 100DaysOfSwift by Paul Hudson
 
 ## 🌟 Highlights
 - Published **CentSage**, a personal finance tracker that simplifies budgeting.
-- Published **Globe: World History**, a studying tool for students learning world history.
+- Published **Globe: World History**, a studying aid for students learning world history.
 
 ## 📚 I'm Currently Learning
 - Advancing my knowledge of Swift with the 100DaysOfSwift curriculum.
