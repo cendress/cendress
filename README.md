@@ -8,9 +8,9 @@ I'm an aspiring iOS developer currently working on 100DaysOfSwift by Paul Hudson
 ## 🔗 Connect With Me
 - Twitter: [@chrisendress_io](https://twitter.com/chrisendress_io)
 - LinkedIn: [christopher-endress-03bb8a291](https://www.linkedin.com/in/christopher-endress-03bb8a291)
-- Portfolio: [https://www.christopherendress.me/](https://www.christopherendress.me/)
 
 ## 📱 Check Out My Work
+- Portfolio: [https://www.christopherendress.me/](https://www.christopherendress.me/)
 - **CentSage** on the App Store: [Download Here](https://apps.apple.com/us/app/centsage/id6468291913)
 - My Projects on GitHub: [Browse Repositories](https://github.com/cendress?tab=repositories)
 
