@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Chris!
 
 ## 🚀 About Me
-I'm an aspiring iOS developer currently working on 100DaysOfSwift by Paul Hudson. My passion for Swift and building serviceable apps has led me to publish my own app, **CentSage**, on the App Store. 📱
+I'm an iOS developer currently working on my third app, iMirror. My passion for Swift and building serviceable apps has led me to publish two apps, **CentSage** and **Globe: World History** on the App Store. 📱
 
 👨‍💻 I'm on the lookout for my first professional role as an iOS Developer, while I continue to sharpen my skills through a series of smaller projects utilizing UIKit and SwiftUI.
 
