@@ -11,10 +11,12 @@ I'm an iOS developer currently working on my third app, **iMirror**. My passion 
 
 ## 📱 Check Out My Work
 - Portfolio: [https://www.christopherendress.me/](https://www.christopherendress.me/)
+- **iMirror** on the App Store: [Download Here](https://apps.apple.com/us/app/imirror-reflect-grow/id6478330335)
 - **CentSage** on the App Store: [Download Here](https://apps.apple.com/us/app/centsage/id6468291913)
 - My Projects on GitHub: [Browse Repositories](https://github.com/cendress?tab=repositories)
 
 ## 🌟 Highlights
+- Published **iMirror**, a mindfulness journal that promotes mental & emotional well-being.
 - Published **CentSage**, a personal finance tracker that simplifies budgeting.
 - Published **Globe: World History**, a studying aid for students learning world history.
 
