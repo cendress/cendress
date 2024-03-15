@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Christopher
 
 ## 🚀 About Me
-I'm an iOS developer currently working on my third app, **iMirror**. My passion for Swift and building innovative apps has led me to publish two apps, **CentSage** and **Globe: World History** on the App Store. 📱
+I'm an iOS developer currently working on growing my knowledge and skills in Swift. My passion for Swift and building innovative apps has led me to publish three apps, **iMirror: Reflect & Grow**, **CentSage**, and **Globe: World History** on the App Store. 📱
 
 👨‍💻 I'm on the lookout for my first professional role as an iOS Developer, while I continue to sharpen my skills through a series of smaller projects utilizing UIKit and SwiftUI.
 
