@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Chris!
+# 👋 Hi, I'm Christopher
 
 ## 🚀 About Me
 I'm an iOS developer currently working on my third app, **iMirror**. My passion for Swift and building innovative apps has led me to publish two apps, **CentSage** and **Globe: World History** on the App Store. 📱
