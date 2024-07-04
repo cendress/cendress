@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Christopher!
 
 ## 🚀 About Me
-I'm currently working as an iOS Engineer at MoodMe. My passion for Swift and building innovative apps has led me to publish three apps, **iMirror: Reflect & Grow**, **CentSage**, and **Globe: World History** on the App Store. 📱
+I'm currently working as an iOS Engineer Intern at MoodMe. My passion for Swift and building innovative apps has led me to publish three apps, **iMirror: Reflect & Grow**, **CentSage**, and **Globe: World History** on the App Store. 📱
 
 👨‍💻 I'm continuing to sharpen my skills through a series of smaller projects utilizing UIKit and SwiftUI and staying active in the iOS community.
 
