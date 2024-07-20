@@ -24,7 +24,6 @@ I'm currently working as an iOS Engineer Intern at MoodMe. My passion for Swift 
 
 ## 📚 I'm Currently Learning
 - Reviewing basic concepts of Swift, OOP, and design for iOS.
-- Integrating AI technologies into Apple frameworks.
 
 ## 💼 I'm Looking For
 - Junior iOS Developer positions.
