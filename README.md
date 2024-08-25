@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Christopher!
 
 ## 🚀 About Me
-I'm currently working as an iOS Engineer Intern at MoodMe. My passion for Swift and building innovative apps has led me to publish three apps, **iMirror: Reflect & Grow**, **CentSage**, and **Globe: World History** on the App Store. 📱
+I'm currently working as an iOS Developer at Sweep360. My passion for Swift and building innovative apps has led me to publish three apps, **iMirror: Reflect & Grow**, **CentSage**, and **Globe: World History** on the App Store. 📱
 
-👨‍💻 I'm continuing to sharpen my skills through a series of smaller projects utilizing UIKit and SwiftUI and staying active in the iOS community.
+👨‍💻 I'm continuing to support others in their journeys as I stay active in the iOS community.
 
 ## 🔗 Connect With Me
 - Twitter: [@chrisendress_io](https://twitter.com/chrisendress_io)
@@ -17,16 +17,16 @@ I'm currently working as an iOS Engineer Intern at MoodMe. My passion for Swift 
 - My Projects on GitHub: [Browse Repositories](https://github.com/cendress?tab=repositories)
 
 ## 🌟 Highlights
+-Started working at **Sweep360** as an iOS Developer.
 - Started working at **MoodMe** as an iOS engineer.
 - Published **iMirror**, a mindfulness journal that promotes mental & emotional well-being.
 - Published **CentSage**, a personal finance tracker that simplifies budgeting.
 - Published **Globe: World History**, a studying aid for students learning world history.
 
 ## 📚 I'm Currently Learning
-- Reviewing basic concepts of Swift, OOP, and design for iOS.
+- Reviewing basic concepts of Swift, SwiftUI, and design for iOS.
 
 ## 💼 I'm Looking For
-- Junior iOS Developer positions.
 - Opportunities to collaborate on exciting iOS projects.
 
 ## 🤝 How to Reach Me
