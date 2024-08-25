@@ -18,7 +18,7 @@ I'm currently working as an iOS Developer at Sweep360. My passion for Swift and 
 
 ## 🌟 Highlights
 - Started working at **Sweep360** as an iOS Developer.
-- Started working at **MoodMe** as an iOS engineer.
+- Started working at **MoodMe** as an iOS Software Engineer Intern.
 - Published **iMirror**, a mindfulness journal that promotes mental & emotional well-being.
 - Published **CentSage**, a personal finance tracker that simplifies budgeting.
 - Published **Globe: World History**, a studying aid for students learning world history.
