@@ -17,7 +17,7 @@ I'm currently working as an iOS Developer at Sweep360. My passion for Swift and 
 - My Projects on GitHub: [Browse Repositories](https://github.com/cendress?tab=repositories)
 
 ## 🌟 Highlights
--Started working at **Sweep360** as an iOS Developer.
+- Started working at **Sweep360** as an iOS Developer.
 - Started working at **MoodMe** as an iOS engineer.
 - Published **iMirror**, a mindfulness journal that promotes mental & emotional well-being.
 - Published **CentSage**, a personal finance tracker that simplifies budgeting.
