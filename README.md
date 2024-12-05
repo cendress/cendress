@@ -10,7 +10,6 @@ I'm currently working as an iOS Developer at Sweep360. My passion for Swift and 
 - LinkedIn: [christopher-endress-03bb8a291](https://www.linkedin.com/in/christopher-endress-03bb8a291)
 
 ## 📱 Check Out My Work
-- Portfolio: [https://www.christopherendress.me/](https://www.christopherendress.me/)
 - **iMirror** on the App Store: [Download Here](https://apps.apple.com/us/app/imirror-reflect-grow/id6478330335)
 - **CentSage** on the App Store: [Download Here](https://apps.apple.com/us/app/centsage/id6468291913)
 - **Globe: World History** on the App Store: [Download Here](https://apps.apple.com/us/app/globe-world-history/id6466718907)
