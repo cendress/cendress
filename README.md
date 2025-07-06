@@ -23,7 +23,8 @@ I'm currently working as an iOS Developer at Sweep360. My passion for Swift and 
 - Published **Globe: World History**, a studying aid for students learning world history.
 
 ## 📚 I'm Currently Learning
-- Reviewing basic concepts of Swift, SwiftUI, and design for iOS.
+- How to handle complex data structures and further my algorithmic understanding.
+- Master core SwiftUI techniques and fundamentals.
 
 ## 💼 I'm Looking For
 - Opportunities to collaborate on exciting iOS projects.
