@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Christopher!
 
 ## 🚀 About Me
-I'm currently working as an iOS Developer at Sweep360. My passion for Swift and building innovative apps has led me to publish three apps, **iMirror: Reflect & Grow**, **CentSage**, and **Globe: World History** on the App Store. 📱
+I'm currently working as an iOS Engineer. My passion for Swift and building innovative apps has led me to publish three apps, **iMirror: Reflect & Grow**, **CentSage**, and **Globe: World History** on the App Store. 📱
 
 👨‍💻 I'm continuing to support others in their journeys as I stay active in the iOS community.
 
