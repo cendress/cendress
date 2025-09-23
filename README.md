@@ -14,8 +14,8 @@ I'm currently working as an iOS Engineer. My passion for Swift and building inno
 - **CentSage** on the App Store: [Download Here](https://apps.apple.com/us/app/centsage/id6468291913)
 - **Globe: World History** on the App Store: [Download Here](https://apps.apple.com/us/app/globe-world-history/id6466718907)
   
-- **iOS voice‑notes recorder**: https://github.com/cendress/AudioScribe
-- **Hackathon Winner music app**: https://github.com/cendress/VibeMix
+- iOS voice‑notes recorder: https://github.com/cendress/AudioScribe
+- Hackathon winning music app: https://github.com/cendress/VibeMix
   
 - My Projects on GitHub: [Browse Repositories](https://github.com/cendress?tab=repositories)
 
