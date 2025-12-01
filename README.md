@@ -15,7 +15,6 @@ I'm currently working as an iOS Engineer. My passion for Swift and building inno
 - **Globe: World History** on the App Store: [Download Here](https://apps.apple.com/us/app/globe-world-history/id6466718907)
   
 - iOS voice‑notes recorder: https://github.com/cendress/AudioScribe
-- Hackathon winning music app: https://github.com/cendress/VibeMix
   
 - My Projects on GitHub: [Browse Repositories](https://github.com/cendress?tab=repositories)
 
