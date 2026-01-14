@@ -19,11 +19,10 @@ I'm currently working as an iOS Engineer. My passion for Swift and building inno
 - My Projects on GitHub: [Browse Repositories](https://github.com/cendress?tab=repositories)
 
 ## 🌟 Highlights
-- Started working at **Sweep360** as an iOS Developer.
+- Joined the founding team at **Sweep** as an iOS Developer.
 - Started working at **MoodMe** as an iOS Software Engineer Intern.
-- Published **iMirror**, a mindfulness journal that promotes mental & emotional well-being.
-- Published **CentSage**, a personal finance tracker that simplifies budgeting.
-- Published **Globe: World History**, a studying aid for students learning world history.
+- Won the **Swift24** hackathon.
+- Published **iMirror**, **CentSage**, and **Globe: World History** on the App Store.
 
 ## 📚 I'm Currently Learning
 - How to handle complex data structures and further my algorithmic understanding.
