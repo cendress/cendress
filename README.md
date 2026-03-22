@@ -23,8 +23,7 @@ I'm currently working as an iOS Engineer. My passion for Swift and building inno
 - Published **iMirror**, **CentSage**, and **Globe: World History** on the App Store.
 
 ## 📚 I'm Currently Learning
-- How to handle complex data structures and further my algorithmic understanding.
-- Master core SwiftUI techniques and fundamentals.
+- Mastering core SwiftUI techniques.
 
 ## 💼 I'm Looking For
 - Opportunities to collaborate on exciting iOS projects.
