@@ -17,7 +17,7 @@ I'm currently working as an iOS Engineer. My passion for Swift and building inno
 - My Projects on GitHub: [Browse Repositories](https://github.com/cendress?tab=repositories)
 
 ## 🌟 Highlights
-- Shipped and launched **NoomaLooma** on the App Store.
+- Shipped and launched **NoomaLooma** onto the App Store.
 - Joined the founding team at **Sweep** as an iOS Developer.
 - Started working at **MoodMe** as an iOS Software Engineer Intern.
 - Won the **Swift24** hackathon.
