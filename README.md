@@ -13,6 +13,9 @@ My work spans early-stage product development, App Store launches, and performan
 - **NoomaLooma** — creative wellness app I helped ship to the App Store  
   [View on the App Store](https://apps.apple.com/us/app/noomalooma-creative-wellness/id6757317267)
 
+- **Curato** — Best UI/UX winner at The Phia Hack, a swipe-based shopping experience built around vibe-driven discovery  
+  [View on Devpost](https://devpost.com/software/curato-5lkcbt?_gl=1*17gvklc*_gcl_au*MjAwNzU5OTU0LjE3NzY2MTE1NTI.*_ga*Nzk4ODEwOTg3LjE3NzY2MTE1NTM.*_ga_0YHJK3Y10M*czE3NzY3OTk1NjUkbzUkZzEkdDE3NzY4MDY0NjIkajQ0JGwwJGgw)
+
 - **AudioScribe** — offline iOS voice-notes app built with SwiftUI, SwiftData, and AVAudioEngine  
   [View on GitHub](https://github.com/cendress/AudioScribe)
 
