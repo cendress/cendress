@@ -10,12 +10,15 @@ My work spans early-stage product development, App Store launches, and performan
 - LinkedIn: [christopher-endress-03bb8a291](https://www.linkedin.com/in/christopher-endress-03bb8a291)
 
 ## 📱 Selected Work
-- **NoomaLooma** — creative wellness app I helped ship to the App Store
-  [View on the App Store](https://apps.apple.com/us/app/noomalooma-creative-wellness/id6757317267)  
+- **NoomaLooma** — creative wellness app I helped ship to the App Store  
+  [View on the App Store](https://apps.apple.com/us/app/noomalooma-creative-wellness/id6757317267)
+
 - **AudioScribe** — offline iOS voice-notes app built with SwiftUI, SwiftData, and AVAudioEngine  
   [View on GitHub](https://github.com/cendress/AudioScribe)
+
 - **iMirror: Reflect & Grow** — mindfulness and journaling app  
   [View on the App Store](https://apps.apple.com/us/app/imirror-reflect-grow/id6478330335)
+
 - **Globe: World History** — education app with 12,000+ downloads  
   [Browse repositories](https://github.com/cendress?tab=repositories)
 
