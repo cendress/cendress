@@ -10,7 +10,7 @@ My work spans early-stage product development, App Store launches, and performan
 - LinkedIn: [christopher-endress-03bb8a291](https://www.linkedin.com/in/christopher-endress-03bb8a291)
 
 ## 📱 Selected Work
-- **NoomaLooma** — creative wellness app I helped ship to the App Store  
+- **NoomaLooma** — shipped a creative wellness platform featured on the App Store. 
   [View on the App Store](https://apps.apple.com/us/app/noomalooma-creative-wellness/id6757317267)
 
 - **Curato** — Best UI/UX winner at The Phia Hack, a swipe-based shopping experience built around vibe-driven discovery  
