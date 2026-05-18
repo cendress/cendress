@@ -9,7 +9,7 @@ My work spans early-stage product development, App Store launches, and performan
 - X / Twitter: [@chrisendress_io](https://twitter.com/chrisendress_io)
 - LinkedIn: [christopher-endress-03bb8a291](https://www.linkedin.com/in/christopher-endress-03bb8a291)
 
-## 📱 Selected Work
+## 📱 Some Projects
 - **NoomaLooma** — shipped a creative wellness platform featured on the App Store     
   [View on the App Store](https://apps.apple.com/us/app/noomalooma-creative-wellness/id6757317267)
 
