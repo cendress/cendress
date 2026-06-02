@@ -22,7 +22,7 @@ My work spans early-stage product development, App Store launches, and performan
 - **iMirror: Reflect & Grow** — mindfulness and journaling app that won Student App of the Month by LAB          
   [View on the App Store](https://apps.apple.com/us/app/imirror-reflect-grow/id6478330335)
 
-- **Globe: World History** — education app with 12,000+ downloads  
+- **Globe: World History** — education app with 13,000+ downloads  
   [Browse repositories](https://github.com/cendress?tab=repositories)
 
 ## 🌟 Highlights
