@@ -3,7 +3,7 @@
 ## 🚀 About Me
 iOS engineer focused on SwiftUI, UIKit, and building polished consumer products. I’ve worked in startup environments shipping mobile features end-to-end across architecture, UI, backend integration, testing, and release.
 
-My work spans early-stage product development, App Store launches, and performance-sensitive mobile features. I’m especially energized by products with strong UX, clear product thinking, and real ownership on the iOS side.
+My work spans early stage product development, App Store launches, and performance-sensitive mobile features. I’m especially energized by products with strong UX, clear product thinking, and real ownership on the iOS side.
 
 ## 🔗 Connect With Me
 - X / Twitter: [@chrisendress_io](https://twitter.com/chrisendress_io)
